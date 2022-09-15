@@ -1,4 +1,4 @@
-import NewsApiServise from './api-service';
+import NewsApiServise from './service';
 import handlerPagination from './pagination';
 import debounce from 'lodash.debounce';
 import themeChanger from './theme';

@@ -1,4 +1,4 @@
-import NewsApiServise from './/api-service';
+import NewsApiServise from './/service';
 import { renderMovies, renderMoviesQueue } from './render-movies';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 const newsApiServise = new NewsApiServise();
